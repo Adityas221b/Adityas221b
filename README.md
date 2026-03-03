@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-    <img src=".github/GIFS%20AND%20IMAGES/START%20PAAGE%20GIF.gif" width="600px">
+    <img src="img/START PAAGE GIF.gif" width="600px">
 </div>
 
 <br>
@@ -33,7 +33,7 @@
 aditya@221b: ~/profile (main⚡)$ neofetch
 ```
 
-<img align="left" src=".github/GIFS%20AND%20IMAGES/profile%20initial%20image%20.jpg" width="260px"/>
+<img align="left" src="img/profile initial image .jpg" width="260px"/>
 
 ```python
 My Profile ver. 2.0.0: "Discipline > Motivation ⚡"
@@ -161,7 +161,7 @@ Contact       : spirokinetics@gmail.com
 
 <div align="center">
     <a href="https://open.spotify.com/playlist/63o6gCWXrKhQTwi6WJqTeC?si=05c7c13ecf46403a" target="_blank">
-        <img src=".github/GIFS%20AND%20IMAGES/MY%20SPOTIFY.gif" width="480px"/>
+        <img src="img/MY SPOTIFY.gif" width="480px"/>
     </a>
     <br>
     <a href="https://open.spotify.com/playlist/63o6gCWXrKhQTwi6WJqTeC?si=05c7c13ecf46403a" target="_blank">
@@ -234,7 +234,7 @@ Contact       : spirokinetics@gmail.com
         <img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio" style="margin-bottom: 5px;">
     </a>
     <br><br>
-    <img src=".github/GIFS%20AND%20IMAGES/initiald-car.gif" width="450">
+    <img src="img/initiald-car.gif" width="450">
 </div>
 
 <br>
@@ -242,7 +242,7 @@ Contact       : spirokinetics@gmail.com
 <div>
     <h2 align="center"> Thanks for stopping by 🙋‍♂️⚓ </h2>
     <div align="center">
-        <img src=".github/GIFS%20AND%20IMAGES/LETS%20CONTRIBUTE%20TOGETHER.gif" width="500"/>
+        <img src="img/LETS CONTRIBUTE TOGETHER.gif" width="500"/>
     </div>
 </div>
 
