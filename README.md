@@ -93,7 +93,7 @@ aditya@221b: ~/profile (main⚡)$ neofetch
         <img src="img/MY SPOTIFY.gif" width="480px"/>
     </a>
     <br>
-    <a href="https://open.spotify.com/playlist/63o6gCWXrKhQTwi6WJqTeC?si=05c7c13ecf46403a" target="_blank">
+    <a href="https://open.spotify.com/playlist/5sUwmMEkTnqKySMT1YnTgo?si=9e3108987aa74ceb" target="_blank">
         <img src="https://img.shields.io/badge/Open%20My%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist">
     </a>
 </div>
