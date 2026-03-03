@@ -36,123 +36,52 @@ aditya@221b: ~/profile (main⚡)$ neofetch
 <img align="left" src="img/profile initial image .jpg" width="260px"/>
 
 ```python
-My Profile ver. 2.0.0: "Discipline > Motivation ⚡"
-----------------------------------------------------------------------------------------
-Username      : Adityas221b
-WhoamI        : 3rd-Year CS Undergrad @ BITS Pilani | CV Researcher | Embedded ML
-Portfolio     : https://adityas221b.github.io/
-OS            : Linux 🐧 (mentally) | Windows 🖥️ (officially)
-Location      : Pilani, Rajasthan, India 🇮🇳
-Research      : Novel Stereo Depth Estimation for Embedded Agricultural Robotics
-                LCDM + MBM fusion — 94–99% depth accuracy, real-time embedded inference
-Institute     : BITS Pilani — B.E. Computer Science (2023–2027)
-Stack         : Python 🐍 | PyTorch 🔥 | C/C++ ⚙️ | OpenCV 👁️ | Linux 🐧
-Learning      : 3D Scene Understanding • Efficient Neural Architectures • Optimization
-Looking For   : Thesis / Research Internship (CV/ML Lab) — Europe 🇪🇺 from Sep 2025
-Anime         : Initial D 🚗 | Gintama ⚔️ | Naruto 🍥
-Hobbies       : Speedcubing 🧩 | Track & Field 🏃‍♂️ | Breaking things (and fixing them)
-Pronouns      : He/Him
-Status        : Undergrad Researcher | 5+ Hackathon Finals 2025 ⚡
-Mindset       : "Don't give up. It's just a detour to your happiness." — Gintoki
-GitHub        : github.com/Adityas221b
-Contact       : spirokinetics@gmail.com
+# whoami
+{
+  name      : "Adityas221b",
+  college   : "BITS Pilani — CS '27",
+  vibe      : "CV Researcher by day 👁️ | Hackathon runner by night 🏃‍♂️",
+  stack     : ["Python", "PyTorch", "C++", "OpenCV", "Linux"],
+  currently : "making computers see things 🤖",
+  anime     : ["Initial D 🚗", "Gintama ⚔️", "Naruto 🍥"],
+  hobbies   : ["Speedcubing 🧩", "Track & Field", "breaking prod"],
+  quote     : "Don't give up. It's just a detour." — Gintoki
+}
 ```
 
-<br>
-<br>
 <br>
 <br>
 
 ---
 
-<div>
-    <h2 align="center"> 🔎 About & Research Background 📖 </h2>
-</div>
-<div align="center">
-    <p align="justify">
-        I'm a third-year <strong>Computer Science undergraduate at BITS Pilani</strong>, working as an undergraduate researcher under Prof. Gopal S. Phartiyal. My research focuses on <strong>stereo depth estimation for embedded agricultural robotics</strong> — specifically, I developed a novel fusion of <strong>LCDM (Low Cost Disparity Map)</strong> and <strong>MBM (Multi-Block Matching)</strong>, a combination that, after exhaustive literature search, has not been previously explored in published research. The system achieves <strong>94–99% depth accuracy</strong> with real-time inference on embedded hardware.
-    </p>
-    <p align="justify">
-        Beyond depth estimation, the pipeline integrates fruit ripeness classification for contactless harvest decisions, and uses Otsu thresholding with morphological operations for apple instance counting. I'm currently running ablation studies on disparity robustness under occlusion, low-texture regions, and varying lighting.
-    </p>
-    <p align="justify">
-        On the industry side, I've interned as a <strong>Software Developer at Beckn Protocol (Digital Energy Grid)</strong>, where I generated 10M+ synthetic profiles in Python and reduced manual QA time by 85%. I've also done independent <strong>bug bounty research</strong> — responsibly disclosing a critical infinite-loop vulnerability at FamPay (YC-backed), preventing 4L+ in potential fraud.
-    </p>
-    <p align="justify">
-        Outside research, I'm a <strong>speedcuber</strong>, a <strong>Track & Field athlete</strong>, and a huge anime fan. Initial D taught me that mastering your craft in silence hits harder than any shortcut. Gintama taught me to laugh at the chaos and keep moving. Naruto taught me that hard work and self-belief outlast raw talent every single time.
-    </p>
-    <br>
-    <h2 align="center"> 🛠️ Core Stack </h2>
-    <p align="center">
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=py,c,cpp,pytorch,tensorflow,opencv,linux,bash,git&perline=9" alt="Core Stack">
-        </a>
-    </p>
-    <h2 align="center"> 🚀 Frameworks & Cloud </h2>
-    <p align="center">
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react,flask,fastapi,docker,html,css,aws,gcp,github&perline=9" alt="Frameworks & Cloud">
-        </a>
-    </p>
-</div>
+<h2 align="center"> 🛠️ things i use </h2>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,c,cpp,pytorch,opencv,linux,bash,git,docker&perline=9" alt="Stack">
+    </a>
+</p>
 
 <br>
-<br>
 
-<div>
-    <h2 align="center"> 🔬 Research Experience </h2>
-</div>
-<div align="center">
+<h2 align="center"> 🚀 stuff i built </h2>
 
 | | |
 |:---|:---|
-| **Undergraduate Researcher** — BITS Pilani | Aug 2025 – Present |
-| Prof. Gopal S. Phartiyal, Dept. of Computer Science | |
-
-</div>
-
-- **Novel LCDM + MBM Stereo Depth Fusion** — first known combination in published literature; 94–99% depth accuracy on custom indoor stereo datasets
-- **Apple Instance Counting** via Otsu thresholding + morphological erosion/dilation; evaluated against manually labelled tree images
-- **Depth-Ripeness Integration** — fused depth maps with fruit ripeness classifier for contactless, vision-based harvest decisions
-- Ablation studies on disparity accuracy under occlusion, low-texture regions, and varying lighting on embedded hardware
+| 👁️ **Stereo Depth for Robots** | making agricultural bots see in 3D — novel research, 94–99% accuracy |
+| 🎭 **Face Recognition** | 98–99% accuracy even under blur, noise & bad lighting |
+| 🎤 **Audio Deepfake Detector** | Macro-F1 = 0.9991 · Comsys Hackathon 4th Place |
+| 🤖 **AI Voice Interviewer** | ~2s latency · cheating detection · Eightfold AI Finalist |
+| ☁️ **Multi-Cloud Orchestrator** | 40–60% storage cost cut · NetApp Hackathon Finalist |
+| 🐛 **Bug Bounty @ FamPay** | found critical vuln · patched in 72h · saved ₹4L+ |
 
 <br>
 
-<div>
-    <h2 align="center"> 💼 Industry Experience </h2>
-</div>
+<h2 align="center"> 🏆 quick wins </h2>
+<p align="center">
 
-**Software Developer Intern — Beckn Protocol (Digital Energy Grid), Bangalore** *(May – Aug 2025)*
-- Generated 10M+ synthetic energy consumption profiles (Python + Faker) for distributed search engine stress-testing across 50+ geo-coordinated regions
-- Built geo-coordinated test datasets; integrated backend with Strapi CMS and Docker — reduced manual data generation time by **85%**, enabling full validation **3 weeks ahead of schedule**
+`5+ Hackathon Finals 2025` &nbsp;•&nbsp; `Undergrad Researcher @ BITS Yr.2` &nbsp;•&nbsp; `Bug Bounty @ YC-backed FamPay` &nbsp;•&nbsp; `Open to EU Research Internship 🌍`
 
-**Bug Bounty Researcher — Independent (FamPay, YC-backed fintech)** *(Oct 2024 – Jan 2025)*
-- Discovered critical infinite-loop vulnerability in card ordering logic enabling unlimited free RuPay card issuance; responsibly disclosed with full exploit PoC — **patched within 72 hours**
-- Prevented an estimated **₹4,00,000+ in fraudulent order losses**
-
-<br>
-
-<div>
-    <h2 align="center"> 🚀 Selected Projects </h2>
-</div>
-
-| Project | Year | Highlights |
-|:---|:---:|:---|
-| **Distortion-Robust Face Recognition** | 2025 | ArcFace + SE-ResNet/iResNet on MS1MV2 (5.8M images); 98–99% Top-1 accuracy under blur/noise/low-light; ONNX embedded export |
-| **Audio Deepfake Detector** *(Comsys Hackathon-6, 4th Place)* | 2025 | Dual-branch CNN with LFCC + raw-waveform; Macro-F1 = **0.9991** on ASVspoof 2019; ONNX → Tesla M10 |
-| **CodeSage — AI Voice Interviewer** *(Eightfold AI × ArIES Finalist)* | 2025 | Gemini 2.0 Flash + React + Flask; ~2s latency; multi-modal cheat detection; projected **$2,800+ saved per interview** |
-| **CloudFlux AI — Multi-Cloud Orchestration** *(NetApp Hackathon Finalist)* | 2025 | FastAPI + ML-based HOT/WARM/COLD tiering; **40–60% storage cost reduction**; sub-100ms classification across AWS/Azure/GCP |
-
-<br>
-
-<div>
-    <h2 align="center"> 🏆 Achievements </h2>
-</div>
-
-- 🥇 **5+ National Hackathon Finals (2025)** — Eightfold AI × ArIES (AI Interviewer) · Comsys Hackathon-6 **4th Place** (Audio Deepfake) · NetApp Hackathon Finalist (Multi-Cloud AI)
-- 🔬 **Undergraduate Researcher (Year 2)** — Among the few 2nd-year students selected for independent faculty-led research at BITS Pilani; leading novel stereo depth work with no prior literature precedent
-- 🐛 **Bug Bounty** — Responsible disclosure of critical payment vulnerability at FamPay (YC-backed); prevented ₹4L+ in potential fraud (2024)
-- 🌍 Open to thesis / research positions (6–12 months) in **Germany · Netherlands · Switzerland** — available from September 2025
+</p>
 
 <br>
 <br>
