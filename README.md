@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/kawarimidoll/typograssy">
-        <img alt="typograssy" src="https://typograssy.deno.dev/api?text= アディティア・シン&l0=none&l1=7aa2f7&l2=7dcfff&l3=bb9af7&l4=1a1b2e&bg=none&frame=none&speed=100&comment=">
+        <img alt="typograssy" src="https://typograssy.deno.dev/api?text= ア+デ+ィ+テ+ィ+ア+・++シ=ン&l0=none&l1=7aa2f7&l2=7dcfff&l3=bb9af7&l4=1a1b2e&bg=none&frame=none&speed=100&comment=">
     </a>
     <p>
         <img draggable="false" src="https://komarev.com/ghpvc/?username=Adityas221b&style=for-the-badge&color=7aa2f7">
