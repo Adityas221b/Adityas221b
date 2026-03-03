@@ -105,27 +105,25 @@ aditya@221b: ~/profile (main⚡)$ neofetch
 
 <div>
     <p align="center">
-        <a href="https://github-readme-streak-stats.herokuapp.com">
-            <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityas221b&theme=tokyonight&hide_border=false">
+        <a href="https://git.io/streak-stats">
+            <img width="49%" alt="Streak Stats" src="https://streak-stats.demolab.com?user=Adityas221b&theme=tokyonight&hide_border=false">
         </a>
-        <a href="https://github-readme-stats.vercel.app">
-            <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Adityas221b&count_private=true&theme=tokyonight&show_icons=true&hide_border=false">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Adityas221b&count_private=true&theme=tokyonight&show_icons=true&hide_border=false&rank_icon=github">
         </a>
     </p>
     <p align="center">
-        <a href="https://github-readme-stats.vercel.app">
-            <img width="40%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityas221b&theme=tokyonight&layout=compact&hide_border=false&langs_count=6">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img width="40%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityas221b&theme=tokyonight&layout=compact&hide_border=false&langs_count=6&cache_seconds=1800">
         </a>
     </p>
     <p align="center">
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-            <img width="95%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityas221b&theme=tokyo-night">
+            <img width="95%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityas221b&theme=tokyo-night&hide_border=false">
         </a>
     </p>
     <p align="center">
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-            <img width="95%" alt="Profile Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityas221b&theme=tokyonight">
-        </a>
+        <img width="95%" alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityas221b&theme=tokyonight">
     </p>
 </div>
 
