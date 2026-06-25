@@ -40,10 +40,8 @@ aditya@221b: ~/profile (main⚡)$ neofetch
 {
   name      : "Adityas221b",
   college   : "BITS Pilani — CS '27",
-  vibe      : "CV Researcher by day 👁️ | Hackathon runner by night 🏃‍♂️",
   stack     : ["Python", "PyTorch", "C++", "OpenCV", "Linux"],
-  currently : "making computers see things 🤖",
-  anime     : ["Initial D 🚗", "Gintama ⚔️", "Naruto 🍥"],
+  currently : "making computers see things ",
   hobbies   : ["Speedcubing 🧩", "Track & Field", "breaking prod"],
   quote     : "Don't give up. It's just a detour." — Gintoki
 }
