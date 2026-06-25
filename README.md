@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-    <img src="img/START PAAGE GIF.gif" width="600px">
+    <img src="img/giphy (2).gif" width="600px">
 </div>
 
 <br>
