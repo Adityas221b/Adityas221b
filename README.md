@@ -153,7 +153,7 @@ aditya@221b: ~/profile (main⚡)$ neofetch
         <img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio" style="margin-bottom: 5px;">
     </a>
     <br><br>
-    <img src="img/initiald-car.gif" width="450">
+    <img src="img/giphy (3).gif" width="450">
 </div>
 
 <br>
