@@ -27,7 +27,7 @@
 
 <br>
 
-<h2 align="center"> 👁️ About Me 👁️ </h2>
+<h2 align="center">  About Me </h2>
 
 ```zsh
 aditya@221b: ~/profile (main⚡)$ neofetch
